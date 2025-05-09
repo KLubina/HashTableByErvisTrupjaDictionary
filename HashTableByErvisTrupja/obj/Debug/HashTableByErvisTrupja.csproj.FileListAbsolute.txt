@@ -12,3 +12,10 @@ C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\HashTableByErvisTrupja2\HashTa
 C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\HashTableByErvisTrupja2\HashTableByErvisTrupja\obj\Debug\HashTableByErvisTrupja.csproj.CoreCompileInputs.cache
 C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\HashTableByErvisTrupja2\HashTableByErvisTrupja\obj\Debug\HashTableByErvisTrupja.exe
 C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\HashTableByErvisTrupja2\HashTableByErvisTrupja\obj\Debug\HashTableByErvisTrupja.pdb
+C:\GitHubDesktop\HashTableByErvisTrupjaDictionary\HashTableByErvisTrupja\bin\Debug\HashTableByErvisTrupja.exe.config
+C:\GitHubDesktop\HashTableByErvisTrupjaDictionary\HashTableByErvisTrupja\bin\Debug\HashTableByErvisTrupja.exe
+C:\GitHubDesktop\HashTableByErvisTrupjaDictionary\HashTableByErvisTrupja\bin\Debug\HashTableByErvisTrupja.pdb
+C:\GitHubDesktop\HashTableByErvisTrupjaDictionary\HashTableByErvisTrupja\obj\Debug\HashTableByErvisTrupja.csproj.AssemblyReference.cache
+C:\GitHubDesktop\HashTableByErvisTrupjaDictionary\HashTableByErvisTrupja\obj\Debug\HashTableByErvisTrupja.csproj.CoreCompileInputs.cache
+C:\GitHubDesktop\HashTableByErvisTrupjaDictionary\HashTableByErvisTrupja\obj\Debug\HashTableByErvisTrupja.exe
+C:\GitHubDesktop\HashTableByErvisTrupjaDictionary\HashTableByErvisTrupja\obj\Debug\HashTableByErvisTrupja.pdb
